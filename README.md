@@ -1,7 +1,7 @@
 <h1>Hi, i'm Leonardo Arcano 👋</h1>
 
 - 🔭 I’m on my way to work with front-end development
-- 🌱 I’m currently learning TypeScript and React
+- 🌱 I’m currently learning Ux/Ui Design
 - 📫 You can find me here: leonardo.dasgracas@gmail.com 
 
 <div align="center">
