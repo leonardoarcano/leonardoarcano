@@ -1,12 +1,12 @@
 <h1>Hi, i'm Leonardo Arcano 👋</h1>
 
-- 🔭 I’m on my way to work with front-end development
-- 🌱 I’m currently learning Ux/Ui Design
+- 🔭 I’m on my way to work with Front-End development
+- 🧑‍💻 UX/UI Design knowloges
+- 🌱 I’m currently learning PHP.
 - 📫 You can find me here: leonardo.dasgracas@gmail.com 
 
 <div align="center">
   <a href="https://github.com/leonardoarcano">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardoarcano&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoarcano&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
